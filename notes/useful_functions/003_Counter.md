@@ -1,6 +1,3 @@
-Here are the notes for the `Counter` class from the `collections` module, wrapped for easy copy-pasting.
-
-````markdown
 # Python `Counter` Class (collections)
 
 The `Counter` is a specialized dictionary subclass used for counting hashable objects. It is an unordered collection where elements are stored as **dictionary keys** and their counts are stored as **dictionary values**.
